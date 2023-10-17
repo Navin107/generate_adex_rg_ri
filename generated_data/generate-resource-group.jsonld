@@ -1,0 +1,267 @@
+[
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "3f01f800-92d7-4ffa-afe3-7cb4fb8aa3ee",
+          "id_bck": "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12/rs.adex.org.in/telangana-amc-info",
+          "type": [
+               "iudx:ResourceGroup",
+               "iudx:AgriMarket",
+               "adex:ResourceGroup",
+               "adex:AgriMarket"
+          ],
+          "name": "telangana-amc-info",
+          "label": "Marketing Information from AMC in Telangana",
+          "description": "Information about the Agricultural Market Committee (AMC) in Telangana State.",
+          "tags": [
+               "land",
+               "crop",
+               "commodity",
+               "market",
+               "mandi",
+               "price",
+               "variety",
+               "district",
+               "amc",
+               "agency",
+               "traders",
+               "procurement",
+               "apmc",
+               "produce"
+          ],
+          "provider": "6e70bb6d-43a2-4f0d-a79e-6c2ea1fa1382",
+          "provider_bck": "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12",
+          "itemStatus": "ACTIVE",
+          "location": {
+               "type": "Place",
+               "address": "Telangana"
+          },
+          "ownerUserId": "9ca1732c-232e-4686-b21e-a5a355c3e843",
+          "cos": "49f96c4c-e595-4fee-984c-43dededfba48",
+          "itemCreatedAt": "2023-03-07T06:47:27+0530"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "e4917519-c5fc-4bd9-9f89-0dd22aa54eec",
+          "id_bck": "niruthi.com/16327cbbfce71b6df9af71036acfd7d2a40453ae/rs.adex.org.in/niruthi-weather",
+          "type": [
+               "iudx:ResourceGroup",
+               "iudx:Weather",
+               "adex:ResourceGroup",
+               "adex:Weather"
+          ],
+          "name": "niruthi-weather",
+          "label": "Khammam Weather Information from Niruthi",
+          "description": "Realtime measures of weather parameters as provided by Niruthi, an agri and climate tech organization, for Khammam district, Telangana.",
+          "tags": [
+               "environment",
+               "air quality",
+               "climate",
+               "air",
+               "aqi",
+               "aqm",
+               "pollution",
+               "so2",
+               "co2",
+               "co",
+               "no",
+               "no2",
+               "pm2.5",
+               "pm10",
+               "humidity",
+               "temperature",
+               "ozone",
+               "o3",
+               "noise",
+               "light",
+               "uv"
+          ],
+          "provider": "fdb2bc10-6dbb-4844-9f0f-4a343a870f61",
+          "provider_bck": "niruthi.com/16327cbbfce71b6df9af71036acfd7d2a40453ae",
+          "itemStatus": "ACTIVE",
+          "location": {
+               "type": "Place",
+               "address": "Khammam, Telangana"
+          },
+          "ownerUserId": "f738f38a-7fde-478b-9650-4187603dec45",
+          "cos": "49f96c4c-e595-4fee-984c-43dededfba48",
+          "itemCreatedAt": "2023-07-27T05:50:30+0530"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "e59365a9-7808-450d-8a42-3269dfcd7e8b",
+          "id_bck": "krishitantra.com/dd9561b09f5d63b59160388f96085a55d24e7795/gateway.adex.org.in/krishitantra-data",
+          "type": [
+               "iudx:ResourceGroup",
+               "iudx:Crop",
+               "adex:ResourceGroup",
+               "adex:Crop"
+          ],
+          "name": "krishitantra-data",
+          "label": "Soil Tests by KrishiTantra",
+          "description": "Information of soil tests of cropland in Telangana state.",
+          "tags": [
+               "krishitantra",
+               "variety",
+               "crop",
+               "commodity",
+               "market",
+               "village",
+               "land",
+               "crop",
+               "crop type",
+               "irrigation",
+               "area sown",
+               "land details",
+               "soil test",
+               "survey number"
+          ],
+          "provider": "a284e308-41ef-4ca6-9064-6ab5c247ab3c",
+          "provider_bck": "krishitantra.com/dd9561b09f5d63b59160388f96085a55d24e7795",
+          "itemStatus": "ACTIVE",
+          "location": {
+               "type": "Place",
+               "address": "Telangana"
+          },
+          "ownerUserId": "05c58686-4d2c-436c-a06b-1fb8b6299b55",
+          "cos": "49f96c4c-e595-4fee-984c-43dededfba48",
+          "itemCreatedAt": "2023-07-31T12:32:50+0530"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "5d97f1bc-d548-4d02-9fd1-0e6d0f8227dd",
+          "id_bck": "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8/rs.adex.org.in/agromet-imd",
+          "type": [
+               "iudx:ResourceGroup",
+               "iudx:AgriAdvisory",
+               "adex:ResourceGroup",
+               "adex:AgriAdvisory"
+          ],
+          "name": "agromet-imd",
+          "label": "IMD Agromet Advisory for Telangana State",
+          "description": "Publishes timely advisory services provided by Agromet for welfare of farmers in regards to weather cautions, pest control, livestock rearing etc. in Telangana state",
+          "tags": [
+               "commodity",
+               "Advisory",
+               "district",
+               "crop",
+               "subdistrict",
+               "general advisory",
+               "state advisory",
+               "regional advisory"
+          ],
+          "provider": "e0adf587-8210-406d-8c59-8c0f27e147af",
+          "provider_bck": "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8",
+          "itemStatus": "ACTIVE",
+          "location": {
+               "type": "Place",
+               "address": "Telangana"
+          },
+          "ownerUserId": "504f246c-4130-451f-b4df-ce41e245a754",
+          "cos": "49f96c4c-e595-4fee-984c-43dededfba48",
+          "itemCreatedAt": "2023-07-28T06:43:34+0530"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "aff0901f-a1c5-4044-b22a-e687cffd6401",
+          "id_bck": "datakaveri.org/5841d4c98a9ef8ab708e01a3c5fc1ab955e6ada0/rs.adex.org.in/agromet-imd",
+          "type": [
+               "iudx:ResourceGroup",
+               "iudx:AgriAdvisory",
+               "adex:ResourceGroup",
+               "adex:AgriAdvisory"
+          ],
+          "name": "agromet-imd",
+          "label": "IMD Agromet Advisory for Telangana State",
+          "description": "Publishes timely advisory services provided by Agromet for welfare of farmers in regards to weather cautions, pest control, livestock rearing etc. in Telangana state",
+          "tags": [
+               "commodity",
+               "Advisory",
+               "district",
+               "crop",
+               "subdistrict",
+               "general advisory",
+               "state advisory",
+               "regional advisory"
+          ],
+          "provider": "600595fa-9c42-4731-94c3-5cbd73ed022f",
+          "provider_bck": "datakaveri.org/5841d4c98a9ef8ab708e01a3c5fc1ab955e6ada0",
+          "itemStatus": "ACTIVE",
+          "location": {
+               "type": "Place",
+               "address": "Telangana"
+          },
+          "ownerUserId": "d4adff9a-7b0f-4b84-aa1b-d2a2fc121d87",
+          "cos": "49f96c4c-e595-4fee-984c-43dededfba48",
+          "itemCreatedAt": "2023-08-07T03:23:06+0530"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "0b054426-a1d2-4b0e-96e2-62e53e0f21e9",
+          "id_bck": "rythubandhu.telangana.gov.in/1668984090c7e92e4c39e1e5d29300e6a9b2a11e/gateway.adex.org.in/rythubandhu-schemes",
+          "type": [
+               "iudx:ResourceGroup",
+               "iudx:Farmer",
+               "adex:ResourceGroup",
+               "adex:Farmer"
+          ],
+          "name": "rythubandhu-schemes",
+          "label": "Rythu Bandhu Agricultural Scheme",
+          "description": "Information of agricultural investment details of a farmer such as Pattadar PassBook(PPB) number in Telangana state.",
+          "tags": [
+               "rythu bandhu",
+               "district",
+               "variety",
+               "crop",
+               "commodity",
+               "market",
+               "farmet details",
+               "village",
+               "revenue information"
+          ],
+          "provider": "52bdfa1a-bd65-4b20-822b-a5a55d839394",
+          "provider_bck": "rythubandhu.telangana.gov.in/1668984090c7e92e4c39e1e5d29300e6a9b2a11e",
+          "itemStatus": "ACTIVE",
+          "location": {
+               "type": "Place",
+               "address": "Khammam, Telangana"
+          },
+          "ownerUserId": "fcc72273-858d-4dc3-9175-8727dd28d71e",
+          "cos": "49f96c4c-e595-4fee-984c-43dededfba48",
+          "itemCreatedAt": "2023-08-09T05:13:20+0530"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "f5d4d767-dfdd-48b0-8afc-aa49da4c9776",
+          "id_bck": "tsdps.telangana.gov.in/b1c9bd3e24bc3db7cbaef607e3907a02133208ba/rs.adex.org.in/khammam-env-weather",
+          "type": [
+               "iudx:ResourceGroup",
+               "iudx:Weather",
+               "adex:ResourceGroup",
+               "adex:Weather"
+          ],
+          "name": "khammam-env-weather",
+          "label": "Weather Monitoring Systems in Khammam",
+          "description": "Weather and climate monitoring station in Khammam district.",
+          "tags": [
+               "environment",
+               "weather",
+               "weather monitoring sensors",
+               "rainfall",
+               "precipitation",
+               "weather information",
+               "humidity",
+               "weather forecast",
+               "meteorological department"
+          ],
+          "provider": "efa475a7-9ca2-4832-99c9-33269071fa01",
+          "provider_bck": "tsdps.telangana.gov.in/b1c9bd3e24bc3db7cbaef607e3907a02133208ba",
+          "itemStatus": "ACTIVE",
+          "location": {
+               "type": "Place",
+               "address": "Khammam, Telangana"
+          },
+          "ownerUserId": "21aebe6e-e843-47b8-9018-d402c5acbbba",
+          "cos": "49f96c4c-e595-4fee-984c-43dededfba48",
+          "itemCreatedAt": "2023-08-29T11:42:08+0530"
+     }
+]

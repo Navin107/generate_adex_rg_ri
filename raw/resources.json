@@ -1,0 +1,66 @@
+{
+    "tsdps.telangana.gov.in/b1c9bd3e24bc3db7cbaef607e3907a02133208ba/rs.adex.org.in/khammam-env-weather/subdistrict-weather-info": {
+        "id": "b72a23b8-5767-48a1-8fc8-6abafe23e69a",
+        "resource_group": "f5d4d767-dfdd-48b0-8afc-aa49da4c9776"
+    },
+    "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12/rs.adex.org.in/telangana-amc-info/khammam-price-info": {
+        "id": "9c24f067-9552-45c2-9137-512263651b79",
+        "resource_group": "3f01f800-92d7-4ffa-afe3-7cb4fb8aa3ee"
+    },
+    "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12/rs.adex.org.in/telangana-amc-info/amc-list": {
+        "id": "537b3f73-c543-4b69-bc4e-5790ef54b6c3",
+        "resource_group": "3f01f800-92d7-4ffa-afe3-7cb4fb8aa3ee"
+    },
+    "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12/rs.adex.org.in/telangana-amc-info/daily-price-info": {
+        "id": "4aef701f-bf08-4f66-b38b-594a9c8c15cf",
+        "resource_group": "3f01f800-92d7-4ffa-afe3-7cb4fb8aa3ee"
+    },
+    "datakaveri.org/5841d4c98a9ef8ab708e01a3c5fc1ab955e6ada0/rs.adex.org.in/khammam-crop-test/mandal-crop-info-test1": {
+        "id": "0f963097-5538-4321-9c00-d17faadc0818",
+        "resource_group": "86972258-a35a-47be-9a5a-77f0f5a28fe7"
+    },
+    "rythubandhu.telangana.gov.in/1668984090c7e92e4c39e1e5d29300e6a9b2a11e/gateway.adex.org.in/rythubandhu-schemes/ppb-contact-details": {
+        "id": "70f3af40-7b5f-470e-953d-725c17231a3c",
+        "resource_group": "0b054426-a1d2-4b0e-96e2-62e53e0f21e9"
+    },
+    "rythubandhu.telangana.gov.in/1668984090c7e92e4c39e1e5d29300e6a9b2a11e/rs.adex.org.in/khammam-crop/mandal-crop-info": {
+        "id": "9370bbfd-ab19-4a5e-832b-01ec86d0f09e",
+        "resource_group": "b1d2f99a-9a55-42eb-8884-37104938189f"
+    },
+    "rythubandhu.telangana.gov.in/1668984090c7e92e4c39e1e5d29300e6a9b2a11e/gateway.adex.org.in/rythubandhu-schemes/master-data": {
+        "id": "e9bb6968-dfbf-4bc8-b798-7af88e03997a",
+        "resource_group": "0b054426-a1d2-4b0e-96e2-62e53e0f21e9"
+    },
+    "rythubandhu.telangana.gov.in/1668984090c7e92e4c39e1e5d29300e6a9b2a11e/gateway.adex.org.in/rythubandhu-schemes/get-cb-data": {
+        "id": "0d4ac616-c222-40af-b16f-41c09b455710",
+        "resource_group": "0b054426-a1d2-4b0e-96e2-62e53e0f21e9"
+    },
+    "rythubandhu.telangana.gov.in/1668984090c7e92e4c39e1e5d29300e6a9b2a11e/gateway.adex.org.in/rythubandhu-schemes/get-farmer-crop-data": {
+        "id": "c5422a0f-e60f-48e4-9d1e-1fa4b1714900",
+        "resource_group": "0b054426-a1d2-4b0e-96e2-62e53e0f21e9"
+    },
+    "krishitantra.com/dd9561b09f5d63b59160388f96085a55d24e7795/gateway.adex.org.in/krishitantra-data/soil-tests-data": {
+        "id": "938f7c21-5a53-4d5e-988b-60d8f2e0c963",
+        "resource_group": "e59365a9-7808-450d-8a42-3269dfcd7e8b"
+    },
+    "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8/rs.adex.org.in/agromet-imd/advisory-district-data": {
+        "id": "404aae9f-905f-41de-b938-a7dccf013d9d",
+        "resource_group": "5d97f1bc-d548-4d02-9fd1-0e6d0f8227dd"
+    },
+    "niruthi.com/16327cbbfce71b6df9af71036acfd7d2a40453ae/rs.adex.org.in/niruthi-weather/khammam-weather-info": {
+        "id": "d60e022f-e32a-4d66-8178-0e7d91361c95",
+        "resource_group": "e4917519-c5fc-4bd9-9f89-0dd22aa54eec"
+    },
+    "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8/rs.adex.org.in/agromet-imd/advisory-subdistrict-data": {
+        "id": "68593b2b-00e4-4a90-a74f-ddf6840d32d8",
+        "resource_group": "5d97f1bc-d548-4d02-9fd1-0e6d0f8227dd"
+    },
+    "datakaveri.org/5841d4c98a9ef8ab708e01a3c5fc1ab955e6ada0/rs.adex.org.in/agromet-imd/security-test-info": {
+        "id": "958b9bec-86b1-4f15-9070-c1750e6f90a4",
+        "resource_group": "aff0901f-a1c5-4044-b22a-e687cffd6401"
+    },
+    "tsdps.telangana.gov.in/b1c9bd3e24bc3db7cbaef607e3907a02133208ba/rs.adex.org.in/khammam-env-weather/rainfall-history-info": {
+        "id": "0dc68957-c82c-4b1c-9c8a-c53c165cd705",
+        "resource_group": "f5d4d767-dfdd-48b0-8afc-aa49da4c9776"
+    }
+}
