@@ -1,7 +1,8 @@
 {
 	"@context": "https://agrijson.adex.org.in/",
 	"type": [
-		"adex:ResourceServer"
+		"adex:ResourceServer",
+		"iudx:ResourceServer"
 	],
 	"id": "ab311420-7d84-4a0a-9fdb-c811be588589",
 	"name": "AdexResourceServer",
@@ -29,25 +30,28 @@
 			}
 		}
 	},
-	"resourceServerRegURL": "rs.cos.adex.org.in",
+	"resourceServerRegURL": " ",
 	"resourceAccessModalities": [{
 		"type": [
-            "adex:HTTPAccess"
+            "adex:HTTPAccess",
+	    "iudx:HTTPAccess"	
 		],
 		"protocol": "https",
-		"accessURL": "rs.cos.adex.org.in"
+		"accessURL": " "
 	}, {
 		"type": [
-            "adex:StreamingAccess"
+            "adex:StreamingAccess",
+	    "iudx:StreamingAccess"
 		],
 		"protocol": "amqps",
-		"accessURL": "databroker.cos.adex.org.in"
+		"accessURL": " "
 	}, {
 		"type": [
-            "adex:FileAccess"
+            "adex:ProxyServer",
+	    "iudx:ProxyServer"
 		],
 		"protocol": "https",
-		"accessURL": "file.cos.adex.org.in"
+		"accessURL": "https://gateway.adex.org.in/"
 	}],
 	"location": {
 		
@@ -60,6 +64,5 @@
 				13.013945
 			]
 		}
-	},
-	"itemCreatedAt": ""
+	}
 }
