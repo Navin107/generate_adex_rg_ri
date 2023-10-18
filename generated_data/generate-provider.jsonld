@@ -1,0 +1,193 @@
+[
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "52bdfa1a-bd65-4b20-822b-a5a55d839394",
+          "id_bck": "rythubandhu.telangana.gov.in/1668984090c7e92e4c39e1e5d29300e6a9b2a11e",
+          "type": [
+               "iudx:Provider",
+               "adex:Provider"
+          ],
+          "name": "rythubandhu",
+          "description": "Rythu Bandhu, Government of Telangana",
+          "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
+          "providerOrg": {
+               "name": "rythubandhu",
+               "additionalInfoURL": "http://rythubandhu.telangana.gov.in/",
+               "location": {
+                    "type": "Place",
+                    "address": "Hyderabad, Telangana",
+                    "geometry": {
+                         "type": "Point",
+                         "coordinates": [
+                              78.47417,
+                              17.39854
+                         ]
+                    }
+               }
+          },
+          "ownerUserId": "fcc72273-858d-4dc3-9175-8727dd28d71e"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "efa475a7-9ca2-4832-99c9-33269071fa01",
+          "id_bck": "tsdps.telangana.gov.in/b1c9bd3e24bc3db7cbaef607e3907a02133208ba",
+          "type": [
+               "iudx:Provider",
+               "adex:Provider"
+          ],
+          "name": "tsdps",
+          "description": "Telangana State Development Planning Society",
+          "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
+          "providerOrg": {
+               "name": "tsdps",
+               "additionalInfoURL": "https://www.tsdps.telangana.gov.in/",
+               "location": {
+                    "type": "Place",
+                    "address": "Hyderabad, Telangana",
+                    "geometry": {
+                         "type": "Point",
+                         "coordinates": [
+                              78.46035,
+                              17.40876
+                         ]
+                    }
+               }
+          },
+          "ownerUserId": "21aebe6e-e843-47b8-9018-d402c5acbbba"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "600595fa-9c42-4731-94c3-5cbd73ed022f",
+          "id_bck": "datakaveri.org/5841d4c98a9ef8ab708e01a3c5fc1ab955e6ada0",
+          "type": [
+               "iudx:Provider"
+          ],
+          "name": "test1",
+          "description": "adex test provider",
+          "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
+          "providerOrg": {
+               "location": {
+                    "geometry": {
+                         "coordinates": [
+                              79.208824,
+                              17.123184
+                         ],
+                         "type": "Point"
+                    },
+                    "type": "Place",
+                    "address": "Telangana"
+               },
+               "additionalInfoURL": "http://test1/",
+               "name": "test1"
+          },
+          "ownerUserId": "d4adff9a-7b0f-4b84-aa1b-d2a2fc121d87"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "6e70bb6d-43a2-4f0d-a79e-6c2ea1fa1382",
+          "id_bck": "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12",
+          "type": [
+               "iudx:Provider"
+          ],
+          "name": "amd",
+          "description": "Agricultural Marketing Department, Government of Telangana",
+          "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
+          "providerOrg": {
+               "location": {
+                    "geometry": {
+                         "coordinates": [
+                              79.208824,
+                              17.123184
+                         ],
+                         "type": "Point"
+                    },
+                    "type": "Place",
+                    "address": "Telangana"
+               },
+               "additionalInfoURL": "http://tsmarketing.in/Homepage.aspx",
+               "name": "amd"
+          },
+          "ownerUserId": "9ca1732c-232e-4686-b21e-a5a355c3e843"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "a284e308-41ef-4ca6-9064-6ab5c247ab3c",
+          "id_bck": "krishitantra.com/dd9561b09f5d63b59160388f96085a55d24e7795",
+          "type": [
+               "iudx:Provider"
+          ],
+          "name": "kt",
+          "description": "KrishiTantra",
+          "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
+          "providerOrg": {
+               "location": {
+                    "geometry": {
+                         "coordinates": [
+                              79.208824,
+                              17.123184
+                         ],
+                         "type": "Point"
+                    },
+                    "type": "Place",
+                    "address": "Telangana"
+               },
+               "additionalInfoURL": "https://krishitantra.com/",
+               "name": "kt"
+          },
+          "ownerUserId": "05c58686-4d2c-436c-a06b-1fb8b6299b55"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "fdb2bc10-6dbb-4844-9f0f-4a343a870f61",
+          "id_bck": "niruthi.com/16327cbbfce71b6df9af71036acfd7d2a40453ae",
+          "type": [
+               "iudx:Provider"
+          ],
+          "name": "niruthi",
+          "description": "Niruthi Climate & Ecosystems Private Limited",
+          "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
+          "providerOrg": {
+               "location": {
+                    "geometry": {
+                         "coordinates": [
+                              78.445106,
+                              17.434301
+                         ],
+                         "type": "Point"
+                    },
+                    "type": "Place",
+                    "address": "Hyderabad, Telangana"
+               },
+               "additionalInfoURL": "https://niruthi.com/",
+               "name": "niruthi"
+          },
+          "ownerUserId": "f738f38a-7fde-478b-9650-4187603dec45"
+     },
+     {
+          "@context": "https://agrijson.adex.org.in/",
+          "id": "e0adf587-8210-406d-8c59-8c0f27e147af",
+          "id_bck": "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8",
+          "type": [
+               "iudx:Provider"
+          ],
+          "name": "aasdimd",
+          "description": "Agromet Advisory Service Division, IMD",
+          "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
+          "providerOrg": {
+               "location": {
+                    "geometry": {
+                         "coordinates": [
+                              77.222501,
+                              28.590385
+                         ],
+                         "type": "Point"
+                    },
+                    "type": "Place",
+                    "address": "New\u00a0Delhi"
+               },
+               "additionalInfoURL": "https://www.imdagrimet.gov.in/",
+               "name": "aasdimd"
+          },
+          "ownerUserId": "504f246c-4130-451f-b4df-ce41e245a754"
+     }
+]
