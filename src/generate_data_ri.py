@@ -24,8 +24,8 @@ class IUDXDataProcessor:
 
         json_data["id_bck"] = ri_id
         json_data["id"] = self.resources_data.get(ri_id, {}).get("id")
-        json_data["resourceServer"] = "ab311420-7d84-4a0a-9fdb-c811be588589"
-        json_data["resourceServer_bck"] = "datakaveri.org/27e503da0bdda6efae3a52b3ef423c1f9005657a/rs.iudx.org.in"
+        json_data["resourceServer"] = "443d5c7c-99a6-4d3b-83b0-6a12d25c3a9c"
+        # json_data["resourceServer_bck"] = "datakaveri.org/27e503da0bdda6efae3a52b3ef423c1f9005657a/rs.iudx.org.in"
         json_data["resourceGroup"] = self.resource_group_data.get(rg_id) 
         json_data["resourceGroup_bck"] = rg_id
         json_data["provider"] = self.provider_data.get(provider_id)
@@ -35,7 +35,7 @@ class IUDXDataProcessor:
 
         desired_keys = [
             "@context", "id", "id_bck", "type",  "name", "label", "description", "tags", "accessPolicy", "apdURL",
-            "provider", "provider_bck", "resourceServer", "resourceServer_bck",
+            "provider", "provider_bck", "resourceServer",
             "resourceGroup", "resourceGroup_bck" ,  "resourceType",  "adexResourceAPIs", "iudxResourceAPIs",
             "dataDescriptor", "dataSample", "location",
             "itemStatus", "instance", "ownerUserId", "cos", "itemCreatedAt"

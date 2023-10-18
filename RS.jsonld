@@ -4,7 +4,7 @@
 		"adex:ResourceServer",
 		"iudx:ResourceServer"
 	],
-	"id": "ab311420-7d84-4a0a-9fdb-c811be588589",
+	"id": "443d5c7c-99a6-4d3b-83b0-6a12d25c3a9c",
 	"name": "AdexResourceServer",
 	"description": "Multi tenanted ADEX Resource Server",
 	"tags": [
