@@ -2480,18 +2480,14 @@
                     "dataSchema": "adex:Number",
                     "type": [
                          "ValueDescriptor"
-                    ],
-                    "unitCode": "",
-                    "unitText": ""
+                    ]
                },
                "targetYield": {
                     "description": "The desired or expected level of production for a specific agricultural crop within a given area or field.",
                     "dataSchema": "adex:Number",
                     "type": [
                          "ValueDescriptor"
-                    ],
-                    "unitCode": "",
-                    "unitText": ""
+                    ]
                },
                "surveyNumber": {
                     "description": "The unique land survey number allocated to the land corresponding to this observation.",
