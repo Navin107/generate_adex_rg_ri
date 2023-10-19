@@ -55,6 +55,14 @@
         "id": "68593b2b-00e4-4a90-a74f-ddf6840d32d8",
         "resource_group": "5d97f1bc-d548-4d02-9fd1-0e6d0f8227dd"
     },
+    "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8/rs.adex.org.in/agromet-imd/commodity-codes": {
+        "id": "9b8ec594-a9e9-4b43-a13a-d8e0b0c54866",
+        "resource_group": "5d97f1bc-d548-4d02-9fd1-0e6d0f8227dd"
+    },
+    "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8/rs.adex.org.in/agromet-imd/district-codes": {
+        "id": "e5d6a8df-9def-4c88-897f-202a927663ef",
+        "resource_group": "5d97f1bc-d548-4d02-9fd1-0e6d0f8227dd"
+    },
     "datakaveri.org/5841d4c98a9ef8ab708e01a3c5fc1ab955e6ada0/rs.adex.org.in/agromet-imd/security-test-info": {
         "id": "958b9bec-86b1-4f15-9070-c1750e6f90a4",
         "resource_group": "aff0901f-a1c5-4044-b22a-e687cffd6401"

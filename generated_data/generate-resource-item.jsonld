@@ -186,7 +186,6 @@
                }
           },
           "dataSample": {
-               "id": "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12/rs.adex.org.in/telangana-amc-info/daily-price-info",
                "amcName": "Warangal",
                "amcCode": "246",
                "marketName": "Warangal",
@@ -1910,6 +1909,7 @@
      },
      {
           "@context": "https://voc.iudx.org.in/",
+          "id": "9b8ec594-a9e9-4b43-a13a-d8e0b0c54866",
           "id_bck": "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8/rs.adex.org.in/agromet-imd/commodity-codes",
           "type": [
                "adex:Resource",
@@ -2015,6 +2015,7 @@
      },
      {
           "@context": "https://voc.iudx.org.in/",
+          "id": "e5d6a8df-9def-4c88-897f-202a927663ef",
           "id_bck": "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8/rs.adex.org.in/agromet-imd/district-codes",
           "type": [
                "adex:Resource",
