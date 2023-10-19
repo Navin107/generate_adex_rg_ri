@@ -24,7 +24,7 @@ class IUDXDataProcessor:
 
         json_data["id_bck"] = ri_id
         json_data["id"] = self.resources_data.get(ri_id, {}).get("id")
-        json_data["resourceServer"] = "443d5c7c-99a6-4d3b-83b0-6a12d25c3a9c"
+        json_data["resourceServer"] = "41bb4389-ebaf-4df7-a575-556ec6092a25"
         # json_data["resourceServer_bck"] = "datakaveri.org/27e503da0bdda6efae3a52b3ef423c1f9005657a/rs.iudx.org.in"
         json_data["resourceGroup"] = self.resource_group_data.get(rg_id) 
         json_data["resourceGroup_bck"] = rg_id
