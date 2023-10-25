@@ -32,7 +32,9 @@ class IUDXDataProcessor:
         json_data["provider_bck"] = provider_id
         json_data["ownerUserId"] = self.user_data.get(provider_id)
         json_data["cos"] =  "49f96c4c-e595-4fee-984c-43dededfba48"
-
+        json_data["accessPolicy"] = "SECURE"
+        json_data["apdURL"] = " "
+        
         desired_keys = [
             "@context", "id", "id_bck", "type",  "name", "label", "description", "tags", "accessPolicy", "apdURL",
             "provider", "provider_bck", "resourceServer",
