@@ -29,8 +29,6 @@
                "agricultural produce",
                "daily prices"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "6e70bb6d-43a2-4f0d-a79e-6c2ea1fa1382",
           "provider_bck": "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -188,7 +186,6 @@
                }
           },
           "dataSample": {
-               "id": "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12/rs.adex.org.in/telangana-amc-info/daily-price-info",
                "amcName": "Warangal",
                "amcCode": "246",
                "marketName": "Warangal",
@@ -276,8 +273,6 @@
                "agricultural produce",
                "apmc"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "6e70bb6d-43a2-4f0d-a79e-6c2ea1fa1382",
           "provider_bck": "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -449,8 +444,6 @@
                "meteorological department",
                "temperature"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "efa475a7-9ca2-4832-99c9-33269071fa01",
           "provider_bck": "tsdps.telangana.gov.in/b1c9bd3e24bc3db7cbaef607e3907a02133208ba",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -644,8 +637,6 @@
                "procurement",
                "amc list"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "6e70bb6d-43a2-4f0d-a79e-6c2ea1fa1382",
           "provider_bck": "tsmarketing.in/fb9a687092654eef990c3471ab50a5910fd08d12",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -801,8 +792,6 @@
                "meteorological department",
                "subdistricts"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "efa475a7-9ca2-4832-99c9-33269071fa01",
           "provider_bck": "tsdps.telangana.gov.in/b1c9bd3e24bc3db7cbaef607e3907a02133208ba",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -939,8 +928,6 @@
                "pattadar passbook number",
                "ppb"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "52bdfa1a-bd65-4b20-822b-a5a55d839394",
           "provider_bck": "rythubandhu.telangana.gov.in/1668984090c7e92e4c39e1e5d29300e6a9b2a11e",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -1184,8 +1171,6 @@
                "imd",
                "niruthi"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "fdb2bc10-6dbb-4844-9f0f-4a343a870f61",
           "provider_bck": "niruthi.com/16327cbbfce71b6df9af71036acfd7d2a40453ae",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -1454,8 +1439,6 @@
                "state advisory",
                "regional advisory"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "e0adf587-8210-406d-8c59-8c0f27e147af",
           "provider_bck": "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -1709,8 +1692,6 @@
                "state advisory",
                "regional advisory"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "e0adf587-8210-406d-8c59-8c0f27e147af",
           "provider_bck": "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -1947,8 +1928,6 @@
                "data",
                "code"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "e0adf587-8210-406d-8c59-8c0f27e147af",
           "provider_bck": "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -2055,8 +2034,6 @@
                "data",
                "code"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "e0adf587-8210-406d-8c59-8c0f27e147af",
           "provider_bck": "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -2169,8 +2146,6 @@
                "imd",
                "niruthi"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "600595fa-9c42-4731-94c3-5cbd73ed022f",
           "provider_bck": "datakaveri.org/5841d4c98a9ef8ab708e01a3c5fc1ab955e6ada0",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -2446,8 +2421,6 @@
                "soil test",
                "survey number"
           ],
-          "accessPolicy": "SECURE",
-          "apdURL": " ",
           "provider": "a284e308-41ef-4ca6-9064-6ab5c247ab3c",
           "provider_bck": "krishitantra.com/dd9561b09f5d63b59160388f96085a55d24e7795",
           "resourceServer": "41bb4389-ebaf-4df7-a575-556ec6092a25",
@@ -2507,18 +2480,14 @@
                     "dataSchema": "adex:Number",
                     "type": [
                          "ValueDescriptor"
-                    ],
-                    "unitCode": "",
-                    "unitText": ""
+                    ]
                },
                "targetYield": {
                     "description": "The desired or expected level of production for a specific agricultural crop within a given area or field.",
                     "dataSchema": "adex:Number",
                     "type": [
                          "ValueDescriptor"
-                    ],
-                    "unitCode": "",
-                    "unitText": ""
+                    ]
                },
                "surveyNumber": {
                     "description": "The unique land survey number allocated to the land corresponding to this observation.",
