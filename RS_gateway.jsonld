@@ -1,0 +1,68 @@
+{
+	"@context": "https://agrijson.adex.org.in/",
+	"type": [
+		"adex:ResourceServer",
+		"iudx:ResourceServer"
+	],
+	"id": "948f45cc-5f0a-4cea-b602-f634917a9d65",
+	"name": "AdexGatewayServer",
+	"description": "Multi tenanted ADEX Gateway Server",
+	"tags": [
+		"ADEX",
+		"Resource",
+		"Server",
+		"Platform"
+	],
+	"owner": "40b80571-edff-4291-b723-94c2a611f859",
+	"cos": "49f96c4c-e595-4fee-984c-43dededfba48",
+	"resourceServerOrg": {
+		"name": "adex",
+		"additionalInfoURL": "https://agrijson.adex.org.in/",
+		"location": {
+			"type": "Place",
+			"address": "IISc, Bangalore",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.570423,
+					13.013945
+				]
+			}
+		}
+	},
+	"resourceServerRegURL": " ",
+	"resourceAccessModalities": [{
+		"type": [
+            "adex:HTTPAccess",
+	    "iudx:HTTPAccess"	
+		],
+		"protocol": "https",
+		"accessURL": " "
+	}, {
+		"type": [
+            "adex:StreamingAccess",
+	    "iudx:StreamingAccess"
+		],
+		"protocol": "amqps",
+		"accessURL": " "
+	}, {
+		"type": [
+            "adex:ProxyServer",
+	    "iudx:ProxyServer"
+		],
+		"protocol": "https",
+		"accessURL": " "
+	}],
+	"location": {
+		
+		"type": "Place",
+		"address": "IISc, Bangalore",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				77.570423,
+				13.013945
+			]
+		}
+	}
+}

@@ -45,13 +45,6 @@
 		],
 		"protocol": "amqps",
 		"accessURL": " "
-	}, {
-		"type": [
-            "adex:ProxyServer",
-	    "iudx:ProxyServer"
-		],
-		"protocol": "https",
-		"accessURL": "https://gateway.adex.org.in/"
 	}],
 	"location": {
 		
