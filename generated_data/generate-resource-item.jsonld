@@ -1062,7 +1062,7 @@
                     "description": "The various types of irrigation for the agricultural land corresponding to this observation.",
                     "dataSchema": "adex:Text"
                },
-               "cropNameLocal": {
+               "cropNameCommon": {
                     "type": [
                          "ValueDescriptor"
                     ],
@@ -1107,7 +1107,7 @@
                },
                "landExtent": 0.375,
                "irrigationSource": "Tank",
-               "cropNameLocal": " Paddy",
+               "cropNameCommon": " Paddy",
                "cropVarietyName": "BPT 5204",
                "cropArea": 0,
                "observationDateTime": "2021-08-11T13:41:14+5:30"
