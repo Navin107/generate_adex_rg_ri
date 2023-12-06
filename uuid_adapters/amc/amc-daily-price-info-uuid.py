@@ -11,7 +11,7 @@ from amqp import publish
 
 
 IST = pytz.timezone("Asia/Kolkata")
-exchange_to_publish = "3f01f800-92d7-4ffa-afe3-7cb4fb8aa3eeo"
+exchange_to_publish = "3f01f800-92d7-4ffa-afe3-7cb4fb8aa3ee"
 route = "3f01f800-92d7-4ffa-afe3-7cb4fb8aa3ee/.4aef701f-bf08-4f66-b38b-594a9c8c15cf"
 uuid = "4aef701f-bf08-4f66-b38b-594a9c8c15cf"
 
