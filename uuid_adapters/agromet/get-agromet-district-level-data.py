@@ -13,6 +13,8 @@ id = "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8/rs.adex.org.in/agromet
 new_exchange_to_publish = "5d97f1bc-d548-4d02-9fd1-0e6d0f8227dd"
 new_route = new_exchange_to_publish + "/.404aae9f-905f-41de-b938-a7dccf013d9d"
 
+ri_uuid = "404aae9f-905f-41de-b938-a7dccf013d9d"
+
 class agrometData:
 
     def __init__(self, base_url):
@@ -72,7 +74,7 @@ class agrometData:
         for packet in json_array:
             v = packet["custom_date"]
             transformed_record = {
-                "id": new_exchange_to_publish+"/404aae9f-905f-41de-b938-a7dccf013d9d",
+                "id": ri_uuid,
                 "observationDateTime": f"{parser.parse(v).isoformat()}+05:30",
                 "agriculturalCategory": packet["category_name"],
                 "stateCode": packet["state_id"],

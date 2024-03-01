@@ -7,6 +7,7 @@ route = "imd.gov.in/d7733b0c544dfb3137767e5efa2c1ccd3b069bf8/rs.adex.org.in/agro
 new_exchange_to_publish = "5d97f1bc-d548-4d02-9fd1-0e6d0f8227dd"
 new_route = new_exchange_to_publish + "/.e5d6a8df-9def-4c88-897f-202a927663ef"
 
+ri_uuid = "e5d6a8df-9def-4c88-897f-202a927663ef"
 def agromet_transform(path):
     try:
         df = pd.read_excel(path)
@@ -16,11 +17,10 @@ def agromet_transform(path):
         print("Error while accessing the file")
         print(e)
 
-    id = new_exchange_to_publish + "/e5d6a8df-9def-4c88-897f-202a927663ef"
 
     for row in range(0, df.shape[0]):
         agromet_dictionary = {
-            "id": exchange_to_publish + "/" + id,
+            "id": ri_uuid,
             "districtCode": str(df.iloc[row, 2]),
             "districtName": str(df.iloc[row, 3])
         }
